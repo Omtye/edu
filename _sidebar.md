@@ -4,3 +4,4 @@
 - [천상예은](yeeun-page)
 - [지진여진](yeojin-page)
 - [윤성윤성](yunseong-page)
+- [민권](minkwon-page)
