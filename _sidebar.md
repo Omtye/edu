@@ -1,4 +1,3 @@
-- [Read Me](README)
 - [신동희우](heewoo-page)
 - [강림혜진](hyejin-page)
 - [도산서원](seowoon-page)
