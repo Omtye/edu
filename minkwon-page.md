@@ -1,3 +1,3 @@
 # Example Second Page
 
-This is an example second page that will appear in the Docsify Sidebar.
+안녕하세요 BDC 정민권입니다.
