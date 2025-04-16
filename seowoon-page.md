@@ -1,3 +1,3 @@
 # Example Second Page
 
-This is an example second page that will appear in the Docsify Sidebar.
+뭐가 서운하셨나요...
