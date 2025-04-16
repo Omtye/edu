@@ -1,3 +1,5 @@
-# Example Second Page
+# 예은2차
 
-This is an example second page that will appear in the Docsify Sidebar.
+잠온다.
+집가고싶다.
+30분안에 끝내고 싶다.
